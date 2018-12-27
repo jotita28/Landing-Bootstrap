@@ -1,0 +1,14 @@
+.barra {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+nav {
+  background-color: #DBF9B8;
+  color: #000000;
+}
+
+.caja{
+  margin-top: 30PX;
+  height: 100px;
+}
