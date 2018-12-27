@@ -10,5 +10,10 @@ nav {
 
 .caja{
   margin-top: 30PX;
-  height: 100px;
+  height: 100%;
+}
+.caja2 {
+  margin-top: 60px;
+  height: 100%;
+  border: 1px solid black;
 }
