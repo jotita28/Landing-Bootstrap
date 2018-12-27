@@ -15,5 +15,15 @@ nav {
 .caja2 {
   margin-top: 60px;
   height: 100%;
+}
+.contenido_nuevo {
+  margin-top: 100px;
+}
+.caja3 {
+  height: 90px;
+  border: 1px solid black;
+}
+.fila {
+  height: 30px;
   border: 1px solid black;
 }
